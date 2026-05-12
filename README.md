@@ -1,2 +1,2 @@
-# AdaMath
-This is a repository for AdaMath.
+# Math
+This is a repository for Math.
